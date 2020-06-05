@@ -14,6 +14,19 @@ rsvr16
 supra19
 viper
 amggtc
+fz07
+mt03
+pm19
+r1
+rc
+rsv4
+xmax
+z1000
+str8
+tmaxDX
+jes
+zentenario
+
 
 # Legal
 ### License
