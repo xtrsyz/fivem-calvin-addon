@@ -10,6 +10,10 @@ africat
 eg6
 g_xlcr
 mx5326
+rsvr16
+supra19
+viper
+amggtc
 
 # Legal
 ### License
