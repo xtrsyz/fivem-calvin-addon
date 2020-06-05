@@ -1,0 +1,1 @@
+https://id.gta5-mods.com/vehicles/kawasaki-eliminator400se

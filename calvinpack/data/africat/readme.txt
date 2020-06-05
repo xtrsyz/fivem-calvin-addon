@@ -1,0 +1,1 @@
+https://www.gta5-mods.com/vehicles/2018-honda-crf1000l-africa-twin/download/61536
