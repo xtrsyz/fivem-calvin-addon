@@ -19,7 +19,7 @@
         <Item>VEH_EXT_WINDSCREEN_R</Item>
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>furia</audioNameHash>
+      <audioNameHash>t20</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>CARBONIZ_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>188_polgs350_modkit</kitName>
-      <id value="188" />	 	  
+      <kitName>2007_polgs350_modkit</kitName>
+      <id value="2007" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>

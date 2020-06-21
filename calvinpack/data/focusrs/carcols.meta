@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>189_focusrs_modkit</kitName>
-      <id value="189" />	 	  
+      <kitName>2008_focusrs_modkit</kitName>
+      <id value="2008" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>

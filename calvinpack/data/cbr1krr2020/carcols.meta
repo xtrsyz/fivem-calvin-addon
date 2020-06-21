@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>220_cbr1000rrr_modkit</kitName>
-      <id value="220" />	 	  
+      <kitName>2009_cbr1000rrr_modkit</kitName>
+      <id value="2009" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	   <Item>
