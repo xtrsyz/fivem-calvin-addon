@@ -50,6 +50,7 @@ nis15
 720s
 lwgtr
 a80
+tr22
 
 # Legal
 ### License
