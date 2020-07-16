@@ -53,6 +53,8 @@ a80
 tr22
 bmwx7
 xxxxx
+gs1
+wraithb
 
 # Legal
 ### License
