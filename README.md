@@ -36,7 +36,6 @@ g63amg6x6
 focusrs
 x7bmw
 rmodmi8lb
-polgs350
 policegt350r
 gls63
 pistaspider19
@@ -69,7 +68,6 @@ cgts
 992t
 f8t
 hevo
-650spider
 gallardosuperlb
 
 # Legal
