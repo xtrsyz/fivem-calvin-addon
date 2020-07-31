@@ -69,6 +69,10 @@ cgts
 f8t
 hevo
 gallardosuperlb
+675ltsp
+vantage
+yzfr125
+918
 
 # Legal
 ### License
