@@ -16,7 +16,7 @@ AddTextEntry('0x3D63F794', 'Liberty Walk Widebody')
 
 AddTextEntry('0x4D7C7742', '6.2 HEMI Hood')
 
-AddTextEntry('0x7B94F5ED', ''12 Front Bumper')
+AddTextEntry('0x7B94F5ED', '12 Front Bumper')
 
 AddTextEntry('0x8D5B1979', 'R/T Front Bumper')
 
